@@ -1,0 +1,6 @@
+[
+    {"code": "DEAD_CORPSE", "description": "On the floor lays dead corpse of somebody"},
+    {"code": "IS_OLD", "description": "Chamber seems to be very old."},
+    {"code": "IS_DAMAGED", "description": "You can easily notice broken walls and columns. It is horryfying."},
+    {"code": "HAS_FOUNTAIN", "description": "In center of the chamber stands beautiful fountain. Unfortunately, is seems, it was not working for a long time."}
+]

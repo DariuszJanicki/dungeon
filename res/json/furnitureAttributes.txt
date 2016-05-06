@@ -1,0 +1,9 @@
+[
+    {"code": "OLD", "description": "old fashioned"},
+    {"code": "BROKEN", "description": "broken"},
+    {"code": "CLEAN", "description": "clean"},
+    {"code": "DIRTY", "description": "dirty"},
+    {"code": "LOCKED", "description": "locked"},
+    {"code": "DUSTED", "description": "dusted"},
+    {"code": "HEAVY", "description": "heavy looking"}
+]
