@@ -1,0 +1,6 @@
+[
+    {"name": "Stick", "type": "MATERIAL"},
+    {"name": "Stone", "type": "MATERIAL"},
+    {"name": "Axe", "type": "WEAPON"},
+    {"name": "Armor", "type": "ARMOR"}
+]

@@ -1,0 +1,7 @@
+[
+    {"name": "chest", "capacity": "5"},
+    {"name": "chair", "capacity": "0"},
+    {"name": "table", "capacity": "2"},
+    {"name": "cabinet", "capacity": "5"},
+    {"name": "doors", "capacity": "0"}
+]

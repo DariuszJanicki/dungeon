@@ -1,0 +1,3 @@
+[
+    {"parts": [{"name": "Stick"}, {"name": "Stone"}], "result": {"name": "Axe"}}
+]
